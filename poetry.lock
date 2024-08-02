@@ -2,19 +2,19 @@
 
 [[package]]
 name = "test_module"
-version = "0.2.0"
+version = "0.2.1"
 description = ""
 optional = false
 python-versions = ">=3.8"
 files = [
-    {file = "test_module-0.2.0-cp312-cp312-manylinux_2_34_x86_64.whl", hash = "sha256:615e74ea6eecad2611c059abf338aa6fa14baa5c85fdf173bc7b7e177d25dd3e"},
+    {file = "test_module-0.2.1-cp312-cp312-manylinux_2_34_x86_64.whl", hash = "sha256:416219083d8b2f75ddb81bcd073d4b9e51f5da0bb6187f985391e6ced97d669f"},
 ]
 
 [package.source]
 type = "file"
-url = "modules/test_module/target/wheels/test_module-0.2.0-cp312-cp312-manylinux_2_34_x86_64.whl"
+url = "modules/test_module/target/wheels/test_module-0.2.1-cp312-cp312-manylinux_2_34_x86_64.whl"
 
 [metadata]
 lock-version = "2.0"
 python-versions = "^3.12"
-content-hash = "d9df80b053e979e25f04ba143df0508b26eb527519d9d0fcb9f9ef00e4bcec93"
+content-hash = "cb8baf0af79cf30bd6e3a2b726623ebdfbc7ca32f2c91fb85f2c651daa882c9d"
