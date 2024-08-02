@@ -7,7 +7,8 @@ readme = "README.md"
 
 [tool.poetry.dependencies]
 python = "^3.12"
-test-module = {path = "modules/test_module/target/wheels/test_module-0.2.1-cp312-cp312-manylinux_2_34_x86_64.whl"}
+test-module = {path = "modules/test_module/target/wheels/test_module-0.2.3-cp312-cp312-manylinux_2_34_x86_64.whl"}
+sympy = "^1.13.1"
 
 
 [build-system]
